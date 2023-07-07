@@ -1,4 +1,7 @@
-### Hi there 👋
+###     👋 Hello 👋 
+####    📺welcome to my home 📺
+
+# My ![Visitor Count](https://profile-counter.glitch.me/HwzLoveDz/count.svg) visitor
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
 
